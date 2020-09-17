@@ -4,7 +4,6 @@
 <meta charset="utf-8" />
 <title>Motherfuckingwebsite</title>
 </head>
-
 <body>
 <header>
 <h1><strong>This is motherfucking website </strong></h1>
