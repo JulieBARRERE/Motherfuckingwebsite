@@ -42,6 +42,5 @@
 <p>From the philosophies expressed (poorly) above,
 <a href ="http://txti.es">txti</a>
 was created. You should try it today to make your own motherfucking websites.</p>
-
     </body>
 </html>
